@@ -35,7 +35,7 @@ mwri 🧘🏽 3
 
 ## 📊 Current Build
 
-- **Total Configs:** `889`
+- **Total Configs:** `758`
 - **Chunk Size:** `300`
 - **Total Subs:** `3`
 - **Output Folder:** [output/](https://github.com/imTruck/MWRI/tree/main/output)
