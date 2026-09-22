@@ -35,9 +35,9 @@ mwri 🧘🏽 3
 
 ## 📊 Current Build
 
-- **Total Configs:** `517`
+- **Total Configs:** `727`
 - **Chunk Size:** `300`
-- **Total Subs:** `2`
+- **Total Subs:** `3`
 - **Output Folder:** [output/](https://github.com/imTruck/MWRI/tree/main/output)
 
 ---
@@ -66,6 +66,18 @@ https://raw.githubusercontent.com/imTruck/MWRI/main/output/sub1_sub.txt
 
 ```text
 https://raw.githubusercontent.com/imTruck/MWRI/main/output/sub2_sub.txt
+```
+
+### Subscription 3
+
+- **Base64 File:** [sub3_sub.txt](https://github.com/imTruck/MWRI/blob/main/output/sub3_sub.txt)
+- **Text File:** [sub3.txt](https://github.com/imTruck/MWRI/blob/main/output/sub3.txt)
+- **Raw Link:** [https://raw.githubusercontent.com/imTruck/MWRI/main/output/sub3_sub.txt](https://raw.githubusercontent.com/imTruck/MWRI/main/output/sub3_sub.txt)
+
+> برای کپی سریع، از دکمه `Copy` بالای باکس استفاده کن.
+
+```text
+https://raw.githubusercontent.com/imTruck/MWRI/main/output/sub3_sub.txt
 ```
 
 ---
